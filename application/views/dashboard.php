@@ -1,5 +1,5 @@
-        <style type="text/css">
-            .calendar {
+<style type="text/css">
+.calendar {
     width: 700px;
 }
 .calendar, .calendar table {
@@ -68,6 +68,7 @@
                 <div class="col-lg-12">
                     <h3 class="page-header">Dashboard</h3>
                 </div>
+                <!-- Dashboard Content Below -->
                 <div class="col-lg-12">
                     <div class="row text-center">
                         <?php 
