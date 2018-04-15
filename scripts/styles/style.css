@@ -339,11 +339,11 @@ body.modal-open {
   font-weight: 300;
 }
 .modal-header {
-  padding: 40px 30px;
+  padding: 10px 5px;
   background: #f7f9fa;
 }
 .modal-body {
-  padding: 20px 30px;
+  padding: 15px 25px;
 }
 .modal-header small {
   color: #9d9fa2;
